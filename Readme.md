@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/2/user/2606279).
+* Студент: [Валерий Макаров](https://up.htmlacademy.ru/htmlcss-individual/2/user/2606279).
 * Наставник: `Неизвестно`.
 
 ---
