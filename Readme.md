@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Валерий Макаров](https://up.htmlacademy.ru/htmlcss-individual/2/user/2606279).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Осадченко](https://htmlacademy.ru/profile/dimaos).
 
 ---
 
